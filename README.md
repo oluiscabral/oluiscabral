@@ -13,7 +13,6 @@ Studorama is a fully open-source, free-to-use platform designed to help students
 
 - ✅ **Infinity of practice questions** aligned with national curricula  
 - ✅ **AI-powered adaptive review engine**  
-- ✅ **Institutional dashboards** for educators and administrators  
 - ✅ **GDPR & LGPD-compliant** data handling  
 
 ---
