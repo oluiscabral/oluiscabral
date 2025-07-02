@@ -11,8 +11,7 @@
 
 Studorama is a fully open-source, free-to-use platform designed to help students excel in Brazilian exams like ENEM and vestibular. Built with JavaScript and modern web technologies, it offers:
 
-- ✅ **200K+ practice questions** aligned with national curricula  
-- ✅ **1,400+ on-demand video lessons**  
+- ✅ **Infinity of practice questions** aligned with national curricula  
 - ✅ **AI-powered adaptive review engine**  
 - ✅ **Institutional dashboards** for educators and administrators  
 - ✅ **GDPR & LGPD-compliant** data handling  
@@ -23,8 +22,6 @@ Studorama is a fully open-source, free-to-use platform designed to help students
 
 - **Zero cost** — Accessible education for all  
 - **Open community** — Contribute, extend, and customize  
-- **Proven impact** — Thousands of students admitted via Sisu  
-- **Enterprise-ready** — Scalable for both individuals and institutions  
 
 ---
 
